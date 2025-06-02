@@ -3,7 +3,6 @@ kind: Component
 metadata:
   name: CAMerlang-ML-Model
   annotations:
-    backstage.io/kubernetes-id: Dev
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Azer2401/CAMerlang-ML-Model
     backstage.io/kubernetes-namespace: platform
