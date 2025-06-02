@@ -4,6 +4,7 @@ metadata:
   name: CAMerlang-ML-Model
   annotations:
     github.com/project-slug: Azer2401/CAMerlang-ML-Model
+    'backstage.io/kubernetes-namespace': platform
 spec:
   type: service
   lifecycle: development
